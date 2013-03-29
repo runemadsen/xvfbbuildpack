@@ -1,6 +1,6 @@
 # Heroku xvfb buildpack
 
-This is a simple repo that demonstrates how to run (the right now very hacky) custom binary of Xvfb on Heroky. Thanks to @jallwine for solving this!
+This is a simple repo that demonstrates how to run (the right now very hacky) custom binary of Xvfb on Heroku. Thanks to @jallwine for solving this!
 
 First grab this repo, and create an app on Heroku. We also set the PATH to the folder where the custom libs will be downloaded.
 
