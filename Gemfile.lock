@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/runemadsen/p5.git
+  revision: 0be769763e561366d785b6df5228165bf5f7e693
+  specs:
+    p5 (0.0.1)
+      headless (= 1.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -24,6 +31,7 @@ PLATFORMS
 
 DEPENDENCIES
   headless
+  p5!
   shotgun
   sinatra
   thin
