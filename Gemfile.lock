@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/runemadsen/p5.git
-  revision: 0be769763e561366d785b6df5228165bf5f7e693
+  revision: d3529c743593f85a974a54d43be630a85658a4ba
   specs:
-    p5 (0.0.1)
+    p5 (0.0.2)
       headless (= 1.0.1)
 
 GEM
@@ -31,7 +31,7 @@ PLATFORMS
 
 DEPENDENCIES
   headless
-  p5!
+  p5 (= 0.0.2)!
   shotgun
   sinatra
   thin
